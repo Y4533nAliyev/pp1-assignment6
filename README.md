@@ -1,4 +1,4 @@
-# Programming Principles I - Assignment 1  
+# Programming Principles I - Assignment 6
 
 
 This is the code for the exercises given to us in our PP1 class in uni.
